@@ -17,7 +17,7 @@
 |                               Frontend Developer                                |                               Frontend Developer                                |                                Backend Developer                                |                                Backend Developer                                |
 | :-----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
 |                      [오태준](https://github.com/taejun0)                       |                     [강현우](https://github.com/hyunw-kang)                     |                     [임형석](https://github.com/ImHyungsuk)                     |                     [김경남](https://github.com/rlarudska)                      |
-| <img src="https://avatars.githubusercontent.com/u/164321668?v=4" width="200" /> | <img src="https://avatars.githubusercontent.com/u/142093380?v=4" width="200" /> | <img src="https://avatars.githubusercontent.com/u/105403103?v=4" width="200" /> | <img src="https://avatars.githubusercontent.com/u/93302404?v=4" width="200" /> |
+| <img src="https://avatars.githubusercontent.com/u/164321668?v=4" width="200" /> | <img src="https://avatars.githubusercontent.com/u/156151246?v=4" width="200" /> | <img src="https://avatars.githubusercontent.com/u/105403103?v=4" width="200" /> | <img src="https://avatars.githubusercontent.com/u/93302404?v=4" width="200" /> |
 
 ## 🛠️ 기술 스택(Tech)
 
